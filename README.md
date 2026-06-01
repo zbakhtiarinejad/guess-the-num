@@ -6,7 +6,7 @@ Welcome to the Number Guessing Game—a lightweight, interactive Python applicat
 ---
 
 ## 💻 What is This Project?
-This is a clean, terminal-based game built in Python where the script dynamically generates a secret number within a specified range (0 to 10). The user has a limited number of attempts to guess the correct number, receiving real-time hint telemetry after each attempt.
+This is a clean, terminal-based game built in Python where the script dynamically generates a secret number within a specified range (0 to 10) and you can only guess 5 times. The user has a limited number of attempts to guess the correct number, receiving real-time hint telemetry after each attempt. And if you want to play again, you can but in a harder level(0 - 50), and you can only guess 25 times.
 
 ---
 
